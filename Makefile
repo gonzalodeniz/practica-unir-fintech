@@ -1,6 +1,7 @@
 .PHONY: all $(MAKECMDGOALS)
 
 run:
+
 	docker run --rm \
 		--volume `pwd`:/opt/app \
 		--env PYTHON_PATH=/opt/app \
@@ -10,3 +11,4 @@ run:
 
 run-local: 
     python3 main.py words.txt yes
+
