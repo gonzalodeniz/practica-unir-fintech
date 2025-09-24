@@ -5,3 +5,8 @@ palabra2
 palabra3
 palabra3
 palabra4
+arco
+geografía
+literatura
+matematicas
+abrigo
