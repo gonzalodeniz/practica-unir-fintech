@@ -4,6 +4,8 @@ Este repositorio nos servirá para demostrar el uso de Git en la asignatura de E
 
 Para que la aplicación pueda probarse es necesario un fichero con un listado de palabras.
 
+Esto es una nueva actualización del fichero README
+
 ---
 
 Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
